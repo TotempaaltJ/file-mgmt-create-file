@@ -1,0 +1,6 @@
+[aws]
+region_name = "foo"
+endpoint_url = "https://foo.bar.com"
+access_key_id = "something"
+secret_access_key = "s3cr3t"
+bucket_name = "your-bucket"
